@@ -1,0 +1,56 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-isystem./include",
+      "-isystem./lib/include",
+      "-Wall",
+      "-pedantic",
+      "-Werror",
+      "-Wextra",
+      "-o",
+      "json-parser",
+      "main.c"
+    ],
+    "directory": "/home/alex/repos/c-what-you-can-do/json-parser",
+    "file": "/home/alex/repos/c-what-you-can-do/json-parser/main.c",
+    "output": "/home/alex/repos/c-what-you-can-do/json-parser/json-parser"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-isystem./include",
+      "-isystem./lib/include",
+      "-Wall",
+      "-pedantic",
+      "-Werror",
+      "-Wextra",
+      "-o",
+      "json-parser",
+      "scanner.c"
+    ],
+    "directory": "/home/alex/repos/c-what-you-can-do/json-parser",
+    "file": "/home/alex/repos/c-what-you-can-do/json-parser/scanner.c",
+    "output": "/home/alex/repos/c-what-you-can-do/json-parser/json-parser"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-isystem./include",
+      "-isystem./lib/include",
+      "-Wall",
+      "-pedantic",
+      "-Werror",
+      "-Wextra",
+      "-o",
+      "json-parser",
+      "parser.c"
+    ],
+    "directory": "/home/alex/repos/c-what-you-can-do/json-parser",
+    "file": "/home/alex/repos/c-what-you-can-do/json-parser/parser.c",
+    "output": "/home/alex/repos/c-what-you-can-do/json-parser/json-parser"
+  }
+]

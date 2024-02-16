@@ -1,0 +1,7 @@
+{ 
+  "string" : "Here is \" a string in JSON", 
+  "number" : 12345,
+  "true" : true,
+  "false" : false,
+  "null" : null
+}
