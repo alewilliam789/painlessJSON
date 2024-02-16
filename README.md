@@ -4,7 +4,7 @@ This a simple, lightweight JSON parser that provides expressive error messages.
 <br>
 
 ## Motivation
-While using some online JSON parsers I thought that the error messages were poor. This parser was built to provide expressive error messages that describe type of error and the location of that error.
+While using some online JSON parsers I thought that the error messages were poor. This parser was built to provide expressive error messages that describe the type of error made and the location of that error.
 <br>
 <br>
 
@@ -15,7 +15,7 @@ make painless
 ```
 That will build you an executable that you can call to process and parse your JSON:
 ```
-./painless you_json_file_here.json
+./painless your_json_file_here.json
 ```
 <br>
 <br>
